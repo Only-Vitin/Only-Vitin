@@ -22,6 +22,6 @@
   <a href = "mailto:silvas.joaov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-dos-santos-silva-20a333178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Only-Vitin/Only-Vitin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Only-Vitin/Only-Vitin/blob/output/github-contribution-grid-snake.svg)
  
 </div>
