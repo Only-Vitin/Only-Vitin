@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;Nickname:+Vitin;Back-End+Student;)](https://git.io/typing-svg)
 
 <div style="display: flex;">
-  <div style="margin-right: 5px;">
+  <div style="margin-right: 2px;">
     <a href="https://github.com/Only-Vitin/">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
   </div>
-  <div style="margin-left: 5px;">
+  <div style="margin-left: 2px;">
     <a href="https://github.com/Only-Vitin/">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=16&theme=dracula"/>
     </a>
