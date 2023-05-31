@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;OnlyVitin;Back-End+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;Only Vitin;Back-End+Student;)](https://git.io/typing-svg)
 
  <div>
   <a href="https://github.com/Only-Vitin/">
