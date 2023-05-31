@@ -2,13 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;Nickname:+Vitin;Back-End+Student;)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/Only-Vitin/" style="margin-right: 40px;">
+  <a href="https://github.com/Only-Vitin/" style="margin-right: 100px;">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Only-Vitin/" style="margin-left: 40px;">
+  <a href="https://github.com/Only-Vitin/" style="margin-left: 20px;">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
