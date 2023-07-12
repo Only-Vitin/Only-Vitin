@@ -3,10 +3,10 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 100px;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Only-Vitin/" style="margin-left: 20px;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=16&theme=github_dark"/>
   </a>
 </div>
 
