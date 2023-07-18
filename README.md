@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;Nickname:+Vitin;Back-End+Student;)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/Only-Vitin/" style="margin-right: 60px;">
+  <a href="https://github.com/Only-Vitin/" style="margin-right: 20px;">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/Only-Vitin/" style="margin-left:  10px;">
