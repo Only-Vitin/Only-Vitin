@@ -3,10 +3,10 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 100px;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/Only-Vitin/" style="margin-left: 20px;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=7&theme=github_dark&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -28,7 +28,5 @@
   <a href="https://discord.gg/7vEFK2myQv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:silvas.joaov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-dos-santos-silva-20a333178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://raw.githubusercontent.com/Only-Vitin/Only-Vitin/output/github-contribution-grid-snake.svg)
  
 </div>
