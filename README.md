@@ -1,6 +1,7 @@
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=João+Vitor+D.+S.+Silva;Nickname:+Vitin;Back-End+Student;)](https://git.io/typing-svg)
+# João Vitor D. S. Silva
+> Back-end Student
 
+###
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 20px;">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
@@ -10,8 +11,11 @@
   </a>
 </div>
 
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nickname:+Vitin;Back-End+Student;)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
+  <p style="color: blue;">Tecnologias que utilizo:</p>
   <img align="center" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cpp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Selenium" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
@@ -19,15 +23,19 @@
   <img align="center" alt="MySQL" height="47" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
   <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
+
 </div>
 
   ##
-  📚 Always willing to learn
+  <p>📚 Always willing to learn</p>
+  
   ###
+  
 <div> 
   <a href="https://instagram.com/only._.vitin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/7vEFK2myQv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:silvas.joaov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-dos-santos-silva-20a333178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+
+###
