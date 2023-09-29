@@ -1,6 +1,7 @@
 # João Vitor D. S. Silva
 > Back-end Student
 ###
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcome+to+my+profile;Nickname:+Vitin;Trainee+Fulltime;)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center;">
@@ -57,10 +58,10 @@
   <img align="center" alt="MySQL" height="47" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
   <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
-
 </div>
 
   ##
+  
   <p>Talk to me:</p>
   
   ###
@@ -72,4 +73,6 @@
   <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-dos-santos-silva-20a333178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-###
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Only-Vitin" alt="Visitors">
+</p>
