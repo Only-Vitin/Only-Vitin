@@ -2,7 +2,7 @@
 > Back-end Student
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcome+to+my+profile;Nickname:+Vitin;Trainee+Fulltime;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Nickname:+Vitin;Trainee+Fulltime;)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 20px;">
