@@ -18,9 +18,12 @@
   <summary><h3>🙋‍♂️​ About me</h3></summary>
   <p align="left">
     
-  - 23 years;
-  - Greater front-end experience;
-  - Average back-end experience;
+  - 18 years
+  - Little experience in back end
+  - Student at Fatec Dep. Julio Julinho Marcondes de Moura
+  - Trainee at Fulltime
+  - Developing a WhatsApp bot: RoZAP
+  - Garça SP - Brazil
     
   </p>
 </details>
@@ -29,14 +32,17 @@
   <summary><h3>📘 Formations</h3></summary>
   <p align="left">
     
-  - Course: Computer Technician; 2016;
-  - Graduate: Technologist in Analysis and system development; 2020;
-  - Empowerment: Math; 2021;
-  - Postgraduate: Specialist in web technologies and innovations; 2022;
-  - Postgraduate: Specialist in full stack web development; 2022;
-  - Studing: Course Fullcycle, 2023;
-  - Studing: Courses Rocketseat, 2023;
-  - Studing: Course Clean Arch & Clean Code, 2023;
+  - Electronics technician
+  - Mechatronics technician
+  - Python with object orientation (OOP) certification
+  - Python for data science certification
+  - Python for data science advanced certification
+  - Python pandas certification
+  - MySQL certification
+    ###
+  - Studying: Python APIs
+  - Studying: Linux
+  - Studying: Docker
     
   </p>
 </details>
@@ -55,7 +61,7 @@
 </div>
 
   ##
-  <p>📚 Always willing to learn</p>
+  <p>Talk to me:</p>
   
   ###
   
