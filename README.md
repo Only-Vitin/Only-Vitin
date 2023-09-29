@@ -73,6 +73,8 @@
   <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-dos-santos-silva-20a333178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+###
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Only-Vitin" alt="Visitors">
 </p>
