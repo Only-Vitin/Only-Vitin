@@ -37,7 +37,6 @@
   - Mechatronics technician
   - Python with object orientation (OOP) certification
   - Python for data science certification
-  - Python for data science advanced certification
   - Python pandas certification
   - MySQL certification
     ###
