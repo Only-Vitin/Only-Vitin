@@ -19,7 +19,7 @@
   <summary><h3>🙋‍♂️​ About me</h3></summary>
   <p align="left">
     
-  - 18 years
+  - 18 years old
   - Little experience in back end
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
   - Trainee at Fulltime
