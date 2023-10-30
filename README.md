@@ -39,10 +39,8 @@
   - Python for data science certification
   - Python pandas certification
   - MySQL certification
-    ###
-  - Studying: Python APIs
-  - Studying: Linux
-  - Studying: Docker
+  - Linux certification
+  - Docker certification
     
   </p>
 </details>
