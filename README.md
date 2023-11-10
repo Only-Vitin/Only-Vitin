@@ -41,6 +41,8 @@
   - MySQL certification
   - Linux certification
   - Docker certification
+  - Network certification
+  - MongoDB certification
     
   </p>
 </details>
