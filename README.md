@@ -58,7 +58,9 @@
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="HTML" height="33" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="33" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Flask" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="MongoDB" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Git" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
   <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
 </div>
