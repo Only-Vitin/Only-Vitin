@@ -40,6 +40,7 @@
   - Linux certification
   - Network certification
   - Flask certification
+  - C certification
     
   </p>
 </details>
