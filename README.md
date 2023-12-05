@@ -49,6 +49,7 @@
 ### Technologies I use:
 <div style="display: inline_block">
   <img align="center" alt="Python" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cpp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Selenium" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Git" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
