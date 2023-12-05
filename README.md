@@ -20,11 +20,11 @@
   <p align="left">
     
   - 18 years old
+  - Garça SP - Brazil
   - Little experience in back end
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
   - Trainee at Fulltime
   - Developing a WhatsApp bot: RoZAP
-  - Garça SP - Brazil
     
   </p>
 </details>
