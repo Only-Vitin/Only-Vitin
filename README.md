@@ -16,7 +16,7 @@
 #
 
 <details open> 
-  <summary><h3>🙋‍♂️​ About me</h3></summary>
+  <summary>🙋‍♂️​ About me</summary>
   <p align="left">
     
   - 18 years old
@@ -30,7 +30,9 @@
 </details>
 
 <details close> 
-  <summary><h3>📘 Formations</h3></summary>
+  <summary>
+    📘 Formations
+  </summary>
   <p align="left">
     
   - Electronics technician
