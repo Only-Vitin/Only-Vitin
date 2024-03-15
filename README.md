@@ -64,7 +64,6 @@
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Docker" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="SignalR" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/signalr/signalr-original.svg">
 
   <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
 </div>
