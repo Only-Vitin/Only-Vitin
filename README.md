@@ -55,14 +55,16 @@
   <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  ### Technologies I'm studying:
+  ### Technologies I study or will study:
 <div style="display: inline_block">
+  <img align="center" alt="Java" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C#" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cpp" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Docker" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="SignalR" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/signalr/signalr-original.svg">
 
   <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
 </div>
