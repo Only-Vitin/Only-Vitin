@@ -6,10 +6,10 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 20px;">
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Only-Vitin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/Only-Vitin/" style="margin-left:  10px;">
-  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=7&theme=react&cache_seconds=1800"/>
+  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Vitin&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
   <summary>🙋‍♂️​ About me</summary>
   <p align="left">
     
-  - 18 years old
+  - 19 years old
   - Garça SP - Brazil
   - Little experience in back end
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
