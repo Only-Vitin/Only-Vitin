@@ -67,7 +67,7 @@
   <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="MongoDB" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
-  <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif">
+  <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif?ex=66c8c0b2&is=66c76f32&hm=b043c049160bd63948741ca4b7e249c779511fd893517d9af652febf34f24701&">
 </div>
 
   ##
