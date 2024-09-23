@@ -55,8 +55,8 @@
   <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Docker" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Redis" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="AmazonSQS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Redis" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="AmazonSQS" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
   ### Technologies I study or will study:
