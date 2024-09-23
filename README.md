@@ -23,7 +23,7 @@
   - Garça SP - Brazil
   - Little experience in back end
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
-  - Trainee at Fulltime
+  - Back-end Developer at Fulltime
   - Developing a WhatsApp bot: RoZAP
     
   </p>
