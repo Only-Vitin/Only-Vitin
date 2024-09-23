@@ -21,7 +21,6 @@
     
   - 19 years old
   - Garça SP - Brazil
-  - Little experience in back end
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
   - Back-end Developer at Fulltime
   - Developing a WhatsApp bot: RoZAP
@@ -58,6 +57,7 @@
   <img align="center" alt="Redis" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="AmazonSQS" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="GO" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 
   ### Technologies I study or will study:
 <div style="display: inline_block">
