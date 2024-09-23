@@ -1,5 +1,5 @@
 # João Vitor D. S. Silva
-> Back-end Developer
+> Back-end Developer | C# | GO | Python
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Trainee+Fulltime;Nickname:+Vitin;)](https://git.io/typing-svg)
