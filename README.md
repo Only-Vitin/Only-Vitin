@@ -1,8 +1,8 @@
 # João Vitor D. S. Silva
-> Back-end Developer | C# | GO | Python
+> GO Lang | C# | Python
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Trainee+Fulltime;Nickname:+Vitin;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Back-end+Developer;Nickname:+Vitin;)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Only-Vitin/" style="margin-right: 20px;">
@@ -19,7 +19,7 @@
   <summary>🙋‍♂️​ About me</summary>
   <p align="left">
     
-  - 19 years old
+  - 20 years old
   - Garça SP - Brazil
   - Student at Fatec Dep. Julio Julinho Marcondes de Moura
   - Back-end Developer at Fulltime
@@ -50,6 +50,7 @@
 ##
 ### Technologies I use:
 <div style="display: inline_block">
+  <img align="center" alt="GO" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="C#" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -57,7 +58,6 @@
   <img align="center" alt="Redis" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="AmazonSQS" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="MySQL" height="48" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="GO" height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 
   ### Technologies I study or will study:
 <div style="display: inline_block">
@@ -68,7 +68,7 @@
   <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="MongoDB" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
-  <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif?ex=66c8c0b2&is=66c76f32&hm=b043c049160bd63948741ca4b7e249c779511fd893517d9af652febf34f24701&">
+  <img align="right" alt="Gif" src="https://cdn.discordapp.com/attachments/1007079209790869554/1113331700462796830/Hnet.com-image1.gif?ex=68091d32&is=6807cbb2&hm=c93360e1db4d63fa8bde8efaff6bac829c34a849e02b80d2a7783aa948836f88&">
 </div>
 
   ##
